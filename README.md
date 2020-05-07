@@ -1,1 +1,3 @@
-# mentorship-team
+# Node.js Mentorship Program
+
+Hello! I'm Bill, a full-stack Node/React developer. I've had an itch to get involved with the broader JS/Node community for a while but haven't because I didn't think I could dedicate enough time to meaningfully participate. I was poking around the mentorship program (to be a mentor) when it was first starting a couple years ago. I think I attended 1 meeting but eventually decided I couldn't dedicate enough time. I think the micro-mentorship idea is a great one and wonder how that will end up playing out. This type of deal is what I'm much more familiar with — helping or talking with ppl in Slack which are typically nice, quick interactions that I can knock out during my work day.
